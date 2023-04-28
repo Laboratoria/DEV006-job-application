@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>08/05/2023</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>09/05/2023</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -74,7 +74,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>08/05/2023 al 29/05/2023</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -122,7 +122,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>29/05/2023 al 09/06/2023</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -154,7 +154,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>08/05/2023</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -177,7 +177,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">05/06/2023</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -189,7 +189,7 @@
         <li>Guía sesiones de mentoría (apartado en el read me)</li>
       </ul>
     </td>
-    <td>Primera versión del CV</td>
+    <td>Primera versión del CV, Se entrega semana del 29/05/2023</td>
     <td>
       <b>Estructura de CV</b>
       <ul>
@@ -229,7 +229,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>12/06/2023</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -248,7 +248,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>26/06/2023 a 07/07/2023</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -307,7 +307,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>11/07/2023</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -325,7 +325,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana 08/05/2023 - Semana 19/06/2023</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -345,7 +345,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>19/06/2023 al 07/07/2023</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -378,7 +378,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>03/07/2023</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -402,7 +402,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td> 17/07/2023 al 28/07/2023</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -465,7 +465,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana 31/07/2023</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
@@ -484,7 +484,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>17/07/2023 al 15/08/2023</td>
     <td>
       <b>Project Feedback:</b>
       <p>
